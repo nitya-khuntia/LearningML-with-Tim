@@ -1,4 +1,4 @@
-#Commented on GITHUB
+#Commented
 import sklearn
 from sklearn.utils import shuffle
 from sklearn.neighbors import KNeighborsClassifier
