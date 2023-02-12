@@ -6,6 +6,8 @@ from sklearn import metrics
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 
+#In new
+
 digits=load_digits()
 data=scale(digits.data)
 y=digits.target
